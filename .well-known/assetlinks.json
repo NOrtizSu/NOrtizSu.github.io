@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+          "namespace": "android_app",
+          "package_name": "com.enjoyyourtime.deagleexpress",
+          "sha256_cert_fingerprints": ["21:59:3E:D6:E0:38:1D:2A:DC:6F:78:29:A0:71:B6:AD:5F:6B:F6:7B:E3:AA:21:13:36:7B:BE:53:77:D9:AA:8F"]
+    }
+}]
